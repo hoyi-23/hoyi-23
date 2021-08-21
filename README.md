@@ -1,23 +1,9 @@
-<!---### Hi there 👋
+<img align="right" alt="GIF" src="./ezgif-7-c1922dccff1f.gif" />
 
-Here are some ideas to get you started:
+# Hi 👋, I am Hoyi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... --->
+💁‍♀️ A **Junior Frontend Developer** 🚀 who lives in Taichung 🏡 and is currently self-learning Frontend Programming ✍
 
-<div align="center">
-<h1 title="hehehe"> Hi 👋, I'm Hoyi!</h1>
-</div>
-
-A **Junior Frontend Developer** 🚀 
-
-  <img align="right" alt="GIF" src="./ezgif-7-c1922dccff1f.gif" />
-
+Welcome to my GitHub 💻
 
 
