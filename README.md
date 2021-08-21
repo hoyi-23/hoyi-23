@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... --->
 
 # Hi I am Hoyi!
-<P> A Junior Frontend Developer who also likes to draw</p>
-<video width="320" height="240" controls>
-  <source src="./hoyi-23/asset/dotoffice.mp4" type="video/mp4">
-</video>
+<iframe src="https://giphy.com/embed/d4zHnLjdy48Cc" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-training-bottles-d4zHnLjdy48Cc">via GIPHY</a></p>
+
