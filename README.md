@@ -2,7 +2,7 @@
 
 # Hi 👋, I am Hoyi
 
-💁‍♀️ A **Junior Frontend Developer** 🚀 who lives in Taichung 🏡 and is currently self-learning Frontend Programming ✍
+💁‍♀️ A **Junior Frontend Developer** 🚀 who lives in Taiwan, Taichung🏡 and is currently self-learning Frontend Programming ✍
 
 Welcome to my GitHub 💻
 
