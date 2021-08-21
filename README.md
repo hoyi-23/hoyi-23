@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
 
-# Hi I am Hoyi!
-<iframe src="https://giphy.com/embed/d4zHnLjdy48Cc" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-training-bottles-d4zHnLjdy48Cc">via GIPHY</a></p>
+<div align="center">
+<h1 title="hehehe"> Hi 👋, I'm Hoyi!</h1>
+</div>
+
+A **Junior Frontend Developer** 🚀 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
 
