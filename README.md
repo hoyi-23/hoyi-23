@@ -2,7 +2,10 @@
 
 # Hi 👋, I am Hoyi
 
-💁‍♀️ A **Junior Frontend Developer** 🚀 who lives in Taiwan, Taichung🏡 and is currently self-learning Frontend Programming ✍
+💁‍♀️ A **Junior Fullstack Developer** 
+🚀 Self-learning Rust and GO
+✍ Goal of 2023 : write more and keep improving
+❤️ on the way of mastering Javascript
 
 <img alt="GIF" width="100" height="100" src="./ezgif.com-gif-maker.gif" />
 Welcome to my GitHub 💻
